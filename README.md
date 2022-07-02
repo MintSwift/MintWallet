@@ -1,5 +1,8 @@
 # 민트지갑
 
+![Swift](https://img.shields.io/badge/Swift-5.x-orange?style=flat-square) ![Platforms](https://img.shields.io/badge/Platforms-iOS-yellowgreen?style=flat-square)
+
+
 # 업데이트 내용
 
 ## 1.1.1 2022년 6월 29일
@@ -92,11 +95,5 @@ ps. special thanks to Papago / Google Translate
 
 [버그수정]
 - 신용카드 편집 화면 버그 수정.
-  
-## 1.0.4 2021년 1월 20일
-[개선]
-- 입력하는 카드 번호에 따란 브랜드 자동 선택 ( oneofakind 님 )
 
-[버그 수정]
-- 아이클라우드 백업 / UI 버그 수정.
   
