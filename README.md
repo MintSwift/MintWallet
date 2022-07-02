@@ -78,9 +78,4 @@
 - 버그수정
 
 ps. special thanks to Papago / Google Translate
-
-## 1.0.6 2021년 3월 1일
-[개선]
-- 신용카드 / 계좌번호 꾹~ 누르면 복사하기 버튼 추가.
-- 버그수정
   
