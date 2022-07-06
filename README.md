@@ -7,3 +7,6 @@
 #
 
 ![Swift](https://img.shields.io/badge/Swift-5.x-orange?style=flat-square) ![Platforms](https://img.shields.io/badge/Platforms-iOS-yellowgreen?style=flat-square) ![Platforms](https://img.shields.io/badge/XCode-13.4-skyblue?style=flat-square)
+
+
+![shot1](assets/Simulator-Screen-Shot_1.png) ![shot2](assets/Simulator-Screen-Shot_2.png) ![shot3](assets/Simulator-Screen-Shot_3.png) ![shot4](assets/Simulator-Screen-Shot_4.png) 
