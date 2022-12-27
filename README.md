@@ -23,6 +23,10 @@
 ## 개발중...
 - 신용카드/은행 개인별 컬러 ( # 유롤님 )
 
+## 버그 수정
+- 비밀번호 화면에서 키보드 올리기 버튼 추가 ( #아침뱃살님 )
+
+
 ## 스크린샷
 <img src = "https://raw.githubusercontent.com/MintSwift/MintWallet/main/assets/Header.png" width="100%" height="auto">
 
