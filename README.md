@@ -19,10 +19,11 @@
 ## 개발 대기중...
 - 보안정보 Open여부 옵션 처리 ( # 이영윤 )
 - 위젯 사용자 편집 ( # 이영윤 )
-- 개인정보 탭에 커스텀 가능한 항목 추가 ( # 모재혁 )
 - WatchOS 추가 ( # Usta )
+- 개인정보 탭 기프티콘 추가(Beta) ( # 조종민 )
 
 ## 개발진행중...
+- 개인정보 탭에 커스텀 가능한 항목 추가 ( # 모재혁 )
 
 ## 배포
  - 2.1.0
@@ -79,6 +80,8 @@
 ## 개인정보 처리 방침
 [[개인정보 처리 방침]](https://github.com/MintSwift/MintWallet/blob/main/Privacy-Policy.md) 
 
+## 오픈소스 라이센스
+[[오픈소스 라이센스]](https://github.com/MintSwift/MintWallet/blob/main/OpenSourceLicense.md) 
 <!-- ---
 ## 스크린샷
 
