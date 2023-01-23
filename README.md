@@ -26,7 +26,7 @@
 - 위젯 사용자 편집 ( # 이영윤 )
 
 ## 배포
- - 2.2.0 ( 2023.01월 말 예정 )
+ - 2.2.0 [[업데이트 내용]](https://github.com/MintSwift/MintWallet/blob/main/Update/2_2_0.md) 
     ```
     [개선]
     - 위젯 사용자 편집 ( # 이영윤 )
